@@ -1,6 +1,7 @@
 
 
 ```python
+# google's own was a little too complex for beginners, so this is a watered down version to promote core understanding#
 # ===============implementation of a seq2seq machine translator from german to english======================================#
 # ================input (source_data) is in german and output(target is in english)=========================================#
 # ================ we are operating on time major basis menaning we recieve out answers with time as its first dimension ====================================================================#
